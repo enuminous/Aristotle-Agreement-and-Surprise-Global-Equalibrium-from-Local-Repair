@@ -1,5 +1,18 @@
 # Agreement and Surprise
 
+<!-- ENUMINOUS-NETWORK:START -->
+**eNuminous network:** [All repositories](https://enuminous.github.io/EFMW/repositories.html) · [EFMW](https://enuminous.github.io/EFMW/) · [102 equations](https://github.com/enuminous/Monolithic_102_EFMW) · [165 triplets](https://enuminous.github.io/FieldSpace/) · [Zoo](https://enuminous.github.io/Tortoise/) · [Lean](https://enuminous.github.io/Aristotle-102-Monolithic-Lean/) · [Engine](https://enuminous.github.io/Archimedes-Engine/) · [Papers](https://enuminous.github.io/medium/papers-essays-index.html) · [Audit](https://github.com/enuminous/EFMW_Post156_Zoo_Audit/blob/main/portfolio/INTERLOCK_AUDIT.md)
+
+[Repository](https://github.com/enuminous/Aristotle-Agreement-and-Surprise-Global-Equalibrium-from-Local-Repair) · [Published page](https://enuminous.github.io/Aristotle-Agreement-and-Surprise-Global-Equalibrium-from-Local-Repair/)
+
+<details>
+<summary>Repository indexes (1)</summary>
+
+- [index.html](https://github.com/enuminous/Aristotle-Agreement-and-Surprise-Global-Equalibrium-from-Local-Repair/blob/main/index.html) · [Open page](https://enuminous.github.io/Aristotle-Agreement-and-Surprise-Global-Equalibrium-from-Local-Repair/index.html)
+
+</details>
+<!-- ENUMINOUS-NETWORK:END -->
+
 ## Global Equilibrium from Local Repair — Aristotle / Lean 4 formalization
 
 An independent formalization of results from **Bernhard Mueller's _Agreement and Surprise: Global Equilibrium from Local Repair_**, draft dated 6 October 2026. The paper studies networks whose parts correct their states using local information, and asks when agreement exists, when repair reaches it, and what remains true when states keep moving.
